@@ -257,7 +257,7 @@ img.service-img{
     padding-left:20px;
     background:url(../images/say.png) no-repeat 0px 2px;
 }
-@media screen and (min-width:1350px){
+@media screen and (min-width:1450px){
     .dev-homecon{
         width:1140px; 
     }
@@ -283,7 +283,7 @@ img.service-img{
     min-height:130px;
     }
 }
-@media (min-width:950px) and (max-width:1350px){
+@media (min-width:950px) and (max-width:1450px){
     .dev-logo{
         width:150px;
         height:150px;
