@@ -1,4 +1,4 @@
-﻿body {
+body {
     margin:0px;
     padding:0px;
     font-family:'Microsoft YaHei';
@@ -187,64 +187,64 @@ img.service-img{
     color:#fff;
     background-color:#00abec;
 }
-.dev-blogcon{
+.dev-solucon{
     padding-right:0px;
     height:468px;
 }
-.dev-blogcon-out{
+.dev-solucon-out{
    max-width:940px;
    margin:120px auto 0px auto
 }
-.dev-blogcon-out .dev-bigtitle{
+.dev-solucon-out .dev-bigtitle{
     padding-right:20px;
 }
-.dev-bloglist{
+.dev-solulist{
     border:1px solid #908174;
     background:url(../images/white-tans.png) repeat;
     overflow:hidden;
     margin-bottom:5px;
 }
-.dev-blogimg{
+.dev-soluimg{
     width:33%;
     float:left;
     margin:0px;
     padding:0px;
 }
-.dev-blogimgcon{
+.dev-soluimgcon{
     border-right:2px solid #ffffff;
     float:left;
 }
-.dev-blogimg img{
+.dev-soluimg img{
     float:left;
     margin:0px;
     padding:0px;
     width:100%;
 }
-.dev-bloglistcon{
+.dev-solulistcon{
     float:left;
     width:67%;
     color:#ffffff;
 }
-.dev-blogtitle{
+.dev-solutitle{
     font-size:22px;
     overflow:hidden;
     white-space:nowrap;
     text-overflow:ellipsis;
     margin:15px;
 }
-.dev-blogsummary{
+.dev-solusummary{
     margin:0px 15px 15px;
     font-size:12px;
     height:38px;
     overflow:hidden;
 }
-.dev-blogoperate{
+.dev-soluoperate{
     margin:0px 15px;
     overflow:hidden;
     font-size:12px;
     font-style:oblique;
 }
-.dev-blogoperate span{
+.dev-soluoperate span{
     float:left;
     display:inline-block;
     padding-right:30px;
@@ -279,7 +279,7 @@ img.service-img{
     .dev-homeword p{
         margin-top:80px;
     }
-    .dev-blogimg img{
+    .dev-soluimg img{
     min-height:130px;
     }
 }
@@ -324,7 +324,7 @@ img.service-img{
     .dev-servicecon{
         margin-top:80px;
     }
-    .dev-blogimg img{
+    .dev-soluimg img{
     min-height:130px;
     }
 }
@@ -370,15 +370,15 @@ img.service-img{
       .dev-servicecon{
         margin-top:50px;
     }
-    .dev-blogcon-out{
+    .dev-solucon-out{
         margin-left:20px;
         margin-right:20px;
         margin-top:50px;
     }
-    .dev-blogtitle{
+    .dev-solutitle{
         margin:10px 15px;
     }
-    .dev-blogimg img{
+    .dev-soluimg img{
     min-height:130px;
     }
 }
@@ -428,37 +428,37 @@ img.service-img{
       .dev-servicecon{
         margin-top:50px;
     }
-      .dev-blogcon-out{
+      .dev-solucon-out{
         margin-left:20px;
         margin-right:20px;
         margin-top:50px;
     }
-      .dev-blogtitle{
+      .dev-solutitle{
         margin:10px 15px;
     }
-      .dev-blogoperate span.talk{
+      .dev-soluoperate span.talk{
           padding-right:0px;
       }
-      .dev-blogimg img{
+      .dev-soluimg img{
     min-height:130px;
     }
 }
 @media (max-width:450px){
-    .dev-blogimg{
+    .dev-soluimg{
         width:100%;
     }
-    .dev-bloglistcon{
+    .dev-solulistcon{
         width:100%;
     }
-    .dev-blogoperate{
+    .dev-soluoperate{
         margin-bottom:15px;
     }
-    .dev-blogimg img{
+    .dev-soluimg img{
     min-height:80px;
     }
 }
 @media (max-width:320px){
-    .dev-blogoperate span{
+    .dev-soluoperate span{
         float:none;
         display:block;
     }
