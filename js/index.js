@@ -1,4 +1,4 @@
-﻿$(function () {
+$(function () {
     var ascensor = $('#ascensorBuilding').ascensor({ loop: "increment", direction: [[0, 0], [0, 1], [0, 2], [1, 0], [1, 1], [1, 2], [2, 0]] });
     var ascensorInstance = $('#ascensorBuilding').data('ascensor');
     $(".links-to-floor li").click(function (event, index) {
@@ -46,7 +46,7 @@
         $conH = $(".dev-homecon").height();
         $(".dev-homecon").css("margin-top", ($winH - $conH) / 2);
         $(".prev-next-links").css("top", ($winH - $conH) / 2);
-        $(".viewport").css("width", $(".dev-blogcon-out").width() - 20);
+        $(".viewport").css("width", $(".dev-solucon-out").width() - 20);
     }
 
     $(window).resize(function () {
